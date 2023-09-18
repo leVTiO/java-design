@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo-design-1-00" />
+        <module name="demo-design-2-01" />
+        <module name="demo-design-2-00" />
         <module name="demo-design-1-02" />
         <module name="demo-design-1-01" />
+        <module name="demo-design-2-02" />
       </profile>
     </annotationProcessing>
   </component>
