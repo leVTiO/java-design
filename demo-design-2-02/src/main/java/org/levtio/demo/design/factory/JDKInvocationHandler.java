@@ -1,6 +1,6 @@
 package org.levtio.demo.design.factory;
 
-import org.levtio.demo.design.util.ClassLoaderUtils;
+import org.levtio.demo.design.ClassLoaderUtils;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

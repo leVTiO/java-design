@@ -1,4 +1,4 @@
-package org.levtio.demo.design.util;
+package org.levtio.demo.design;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
