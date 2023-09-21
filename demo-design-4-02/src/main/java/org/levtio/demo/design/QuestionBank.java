@@ -4,7 +4,6 @@ import org.levtio.demo.design.util.Topic;
 import org.levtio.demo.design.util.TopicRandomUtil;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Map;
 
