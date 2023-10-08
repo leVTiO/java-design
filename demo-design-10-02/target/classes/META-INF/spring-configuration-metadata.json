@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "levtio.door",
+      "type": "org.levtio.demo.design.door.config.StarterServiceProperties",
+      "sourceType": "org.levtio.demo.design.door.config.StarterServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "levtio.door.user-str",
+      "type": "java.lang.String",
+      "sourceType": "org.levtio.demo.design.door.config.StarterServiceProperties"
+    }
+  ],
+  "hints": []
+}
