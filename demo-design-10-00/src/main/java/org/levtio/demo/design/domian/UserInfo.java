@@ -9,7 +9,6 @@ public class UserInfo {
     //code、info可以统一定义一个类
     private String code;
     private String info;
-
     private String name;
     private Integer age;
     private String address;
